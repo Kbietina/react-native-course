@@ -165,10 +165,10 @@ i {
 .winner { background-color: #f7f7f7; }
 .winner .player-name { font-weight: 300; color: #EB4D4D; }
 .winning-score{
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 290;
     left: 50%;
-    top: 10px;
+    top: 1px;
     transform: translateX(-50%);
     position: absolute;
     text-transform: uppercase;
